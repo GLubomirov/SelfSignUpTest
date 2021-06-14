@@ -1,0 +1,13 @@
+{
+    "auth": {
+      "identityProviders": {
+        "azureActiveDirectory": {
+          "registration": {
+            "openIdIssuer": "",
+            "clientIdSettingName": "",
+            "clientSecretSettingName": ""
+          }
+        }
+      }
+    }
+  }
